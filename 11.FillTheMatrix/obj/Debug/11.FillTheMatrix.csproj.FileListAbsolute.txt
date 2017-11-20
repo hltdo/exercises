@@ -1,0 +1,6 @@
+E:\C#_Exercises_Arrays\CSharpExercisesArrays\11.FillTheMatrix\bin\Debug\11.FillTheMatrix.exe.config
+E:\C#_Exercises_Arrays\CSharpExercisesArrays\11.FillTheMatrix\bin\Debug\11.FillTheMatrix.exe
+E:\C#_Exercises_Arrays\CSharpExercisesArrays\11.FillTheMatrix\bin\Debug\11.FillTheMatrix.pdb
+E:\C#_Exercises_Arrays\CSharpExercisesArrays\11.FillTheMatrix\obj\Debug\11.FillTheMatrix.csprojResolveAssemblyReference.cache
+E:\C#_Exercises_Arrays\CSharpExercisesArrays\11.FillTheMatrix\obj\Debug\11.FillTheMatrix.exe
+E:\C#_Exercises_Arrays\CSharpExercisesArrays\11.FillTheMatrix\obj\Debug\11.FillTheMatrix.pdb
