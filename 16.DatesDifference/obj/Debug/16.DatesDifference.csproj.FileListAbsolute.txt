@@ -1,0 +1,1 @@
+E:\Telerik\TelerikAcademy\Archive 2015-2016 Season\Homeworks\C#2 Homeworks\06_StringsAndTextProcessing\16.DatesDifference\bin\Debug\16.DatesDifference.exe.config
